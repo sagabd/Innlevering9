@@ -8,7 +8,7 @@ Created on Mon Oct 25 23:56:19 2021
 
 #b)
 
-# Spørsmål
+# Spørsmål tester ut kommit2
 
 class flervalgspors():
     def __init__(self, spors, valg, riktig):
