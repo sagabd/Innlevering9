@@ -10,6 +10,7 @@ Created on Mon Oct 25 23:56:19 2021
 
 # Spørsmål tester ut kommit3
 #hvis stud ass
+#ny
 
 class flervalgspors():
     def __init__(self, spors, valg, riktig):
